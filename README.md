@@ -1,6 +1,1 @@
-# tgtk
-...
-
-no longer maintaining this repository, please use at your own risk.
-
-no support will be giving out regarding this repository.
+<p><a href="https://heroku.com/deploy?template=https://github.com/dozzler555/ggcxgvj"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
